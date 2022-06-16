@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">spinner1</string>
+    <string name="selected_item">Selected Language is:</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+    <string name="selected_os">in os:</string>
+    <string-array name="os">
+        <item>linux</item>
+        <item>windows</item>
+        <item>ubuntu</item>
+        <item>fedora</item>
+        <item>mac</item>
+    </string-array>
+</resources>
